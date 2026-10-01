@@ -1,0 +1,12 @@
+# Core libraries used by the notebook.
+# On Kaggle these are preinstalled, so you normally do not need to install anything.
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.2
+joblib>=1.2
+
+# Optional (the notebook falls back gracefully if these are missing)
+nltk>=3.7
+wordcloud>=1.8
