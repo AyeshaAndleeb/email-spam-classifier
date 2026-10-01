@@ -1,4 +1,4 @@
-# Email Spam Classifier
+# Intelligent Email Spam Detection using Machine Learning & NLP
 
 Classifying emails as spam or legitimate from their text, using natural language processing and classical machine learning. Trained and evaluated on more than 83,000 real emails.
 
